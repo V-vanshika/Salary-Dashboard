@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Salary_Dashboard Final Dashboard.png](/Images/Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
@@ -91,8 +91,6 @@ IF(
 
 ![1_Salary_Dashboard_Type.png](/Images/1_Salary_Dashboard_Screenshot2.png)
 
-📉 Dashboard Implementation:
-
 ### ❎ Data Validation
 
 #### 🔍 Filtered List
@@ -102,7 +100,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="Images/Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
